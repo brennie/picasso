@@ -1,0 +1,11 @@
+[package]
+name = "picasso"
+version = "0.1.0"
+authors = ["Barret Rennie <barret@brennie.ca>"]
+description = "A console-based nonogram puzzle game."
+homepage = "https://github.com/brennie/picasso"
+repository = "https://github.com/brennie/picasso.git"
+readme = "README.md"
+license = "GPL-3.0-or-later"
+
+[dependencies]
