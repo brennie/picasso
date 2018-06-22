@@ -9,3 +9,6 @@ readme = "README.md"
 license = "GPL-3.0-or-later"
 
 [dependencies]
+structopt = "0.2.10"
+structopt-derive = "0.2.10"
+rand = "0.5.1"
